@@ -21,5 +21,6 @@ Este é um simples sistema em C para gerenciar informações de alunos em um arq
    ```bash
    git clone https://github.com/seu-username/seu-projeto.git
 
-Contribuição
+## Contribuição
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests.
